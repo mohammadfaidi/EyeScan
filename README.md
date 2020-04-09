@@ -17,7 +17,7 @@ python3 Eyescan.py
 
 Results:
 
-Usage of program : -H <target host> -P <target port>
+Usage of program : -H target host -P target port
     
     
 python3 scanner2.py -H www.google.com -P 80,8080
