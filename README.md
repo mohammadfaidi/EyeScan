@@ -3,9 +3,9 @@ EyeScan is scan tools you can check particular port with host or Ipaddress
 
 
 # Installation
-1- sudo apt update
+1- sudo apt-get update
 
-2- sudo apt install python3-pip
+2- sudo apt-get install python3-pip
 
 
 # Usage 
